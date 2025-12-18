@@ -32,11 +32,8 @@ L’objectif est de fournir une solution simple et structurée, adaptée à un c
   - Fonctions conditionnelles (`SI`)
   - Fonctions de recherche (`RECHERCHEV` / `XLOOKUP`)
   - Tableaux structurés
-  - Tableaux croisés dynamiques (si applicable)
+  - Tableaux croisés dynamiques
 
 Les données utilisées sont simulées à des fins pédagogiques.
 
----
 
-## Auteur
-Projet réalisé par **Mariam**, dans un cadre académique / personnel, avec un intérêt particulier pour la **data appliquée à la supply chain**.
